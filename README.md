@@ -1,14 +1,9 @@
 ![Cover Photo](cover.jpg)
 
-- 👋 Hi, I’m @mohansandesh
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## About Me
 
-<!---
-mohansandesh/mohansandesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hello! I'm Mohan Sandesh. I have expertise in Node.js, JavaScript, PHP, Ruby on Rails and Java.
+
+## My Favorite Open Source Projects
+
+* [Koa.js](https://github.com/koajs/koa)
